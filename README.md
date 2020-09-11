@@ -10,7 +10,7 @@ This project develops a web application as part of the JPMorgan Chase's [Softwar
 ## Demo
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46636857/92833858-2c28d300-f38e-11ea-8f2c-b58d554a381d.gif" width="590">
+  <img src="https://user-images.githubusercontent.com/46636857/92833858-2c28d300-f38e-11ea-8f2c-b58d554a381d.gif">
 </p>
 
 ## Installation
@@ -26,10 +26,9 @@ The project requires the following frameworks:
 Run the following commands:
 
 ```
-python datafeed/server3.py
-npm install && npm start
+cd app
+npm install
+npm start
 ```
 
 Open http://localhost:3000 to view the app in the browser.
-
-If the app fails to run, download this copy of [node_modules](https://drive.google.com/file/d/1amF7C-4mRZCi3Ab5xuH0XCRQubp4aa_t/view).
