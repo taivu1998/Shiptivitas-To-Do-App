@@ -10,7 +10,7 @@ This project develops a web application as part of the [Train to Work at a Y Com
 ## Demo
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46636857/92833858-2c28d300-f38e-11ea-8f2c-b58d554a381d.gif" with="580">
+  <img src="https://user-images.githubusercontent.com/46636857/92833858-2c28d300-f38e-11ea-8f2c-b58d554a381d.gif" with="550">
 </p>
 
 ## Installation
