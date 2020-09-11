@@ -10,7 +10,7 @@ This project develops a web application as part of the JPMorgan Chase's [Softwar
 ## Demo
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46636857/92553931-10e88700-f219-11ea-99a4-97cd41d87f0d.gif" width="580">
+  <img src="https://taivu1998.github.io/assets/images/projects/Shiptivitas_Demo.gif" width="590">
 </p>
 
 ## Installation
@@ -20,8 +20,6 @@ The project requires the following frameworks:
 - React: https://reactjs.org/
 
 - Node.js: https://nodejs.org/en/
-
-- Perspective: https://perspective.finos.org/
 
 ## How to Run
 
