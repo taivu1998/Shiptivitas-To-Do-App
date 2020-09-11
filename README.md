@@ -5,7 +5,7 @@
 
 # Shiptivitas-To-Do-App
 
-This project develops a web application as part of the JPMorgan Chase's [Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship). In particular, the web application provides an interactive dashboard that tracks and visualizes daily movements of stock data in a clear and visually appealing manner as well as provides alerts for potential trading opportunities. Hence, this visualization of stock data feeds allows users to monitor potential trade strategies.
+This project develops a web application as part of the [Train to Work at a Y Combinator Startup](https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students%3A-Learn-how-to-work-at-a-YC-startup-) program. Specifically, the web application provided a simple to-do list tracking tool based on a kanban style board. This tool would support freight shippers to easily manage their shippig requests, thus increasing their shipping productivity and speed.
 
 ## Demo
 
