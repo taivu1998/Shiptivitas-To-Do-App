@@ -10,7 +10,7 @@ This project develops a web application as part of the JPMorgan Chase's [Softwar
 ## Demo
 
 <p align="center">
-  <img src="https://taivu1998.github.io/assets/images/projects/Shiptivitas_Demo.gif" width="590">
+  <img src="https://user-images.githubusercontent.com/46636857/92833858-2c28d300-f38e-11ea-8f2c-b58d554a381d.gif" width="590">
 </p>
 
 ## Installation
